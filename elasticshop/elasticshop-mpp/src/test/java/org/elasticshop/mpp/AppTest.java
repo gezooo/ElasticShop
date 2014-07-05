@@ -1,4 +1,4 @@
-package org.gez.elasticshop.mpp;
+package org.elasticshop.mpp;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
